@@ -1,0 +1,5 @@
+# ninja log v5
+1	1451	6689877088201323	CMakeFiles/lab_13.dir/Command.cpp.obj	ba6a40a7ff143a0c
+1	1372	6689823636307292	CMakeFiles/lab_13.dir/main.cpp.obj	5b6b85a33060e79a
+1372	2147	6689823643829035	lab_13.exe	9bd1d369d87d6333
+0	973	6689879752905567	CMakeFiles/lab_13.dir/Command.cpp.obj	ba6a40a7ff143a0c
